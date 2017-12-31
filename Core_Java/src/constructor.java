@@ -1,10 +1,10 @@
 
 public class constructor {
 	
-int age; // variable without values
-int salary;// Default values are 0,0,0, null
-int house;
-String name;
+	int age; // variable without values
+	int salary;// Default values are 0,0,0, null
+	int house;
+	String name;
 
 
 

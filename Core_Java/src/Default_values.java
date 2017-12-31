@@ -1,8 +1,8 @@
 
 public class Default_values {
- int c;
- int b;
- String v;
+ int c=20;
+ int b=30;
+ String v="Ayat";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
  Default_values x =new Default_values();

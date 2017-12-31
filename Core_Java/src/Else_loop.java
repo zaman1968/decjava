@@ -4,8 +4,8 @@ public class Else_loop {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-				int num=150000;
-				if(num <100 && num>=1) {
+				int num=10000;
+				if(num <100 && num>=10) {
 				  System.out.println("Its a two digit number");
 				}
 				else if(num <1000 && num>=100) {

@@ -5,19 +5,23 @@ public class Weatherforecast {
 		// TODO Auto-generated method stub
 
 	int temperature=50;
-	switch(temperature) {
+	switch(temperature) 
 	
-	if(temperature>80)
+	if(temperature>80) 
 		System.out.println("It is hot");
-	    break;
-	 if (temperature<50); 
+			    break;
+	 if (temperature<50) 
 	 System.out.println("It is cold");
+	 
 	 break;
 	 
-	 if ((temperature>50)&&(temperature<80))
+	 if ((temperature>50)&&(temperature<80)) 
 	 System.out.println("It is pleasent");
+	 
 	 break;
 	}
-	}
-
 }
+	
+	
+
+

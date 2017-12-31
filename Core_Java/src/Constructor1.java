@@ -3,8 +3,7 @@ public class Constructor1 {//what is constructor?
 	                      //why the class name is same as constructor name?
                           // where and when it is used?
 	
-		 int salary;
-		 int age;
+		 
 		    Constructor1(){
 			int salary=10000;
 			int age=49;

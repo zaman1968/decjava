@@ -1,8 +1,8 @@
-import java.lang.reflect.Constructor;
+		import java.lang.reflect.Constructor;
 
 public class Constructor2 {
 
-	String a;
+	
 	Constructor2() {
 	String a="BeginnersBook.com";
 	System.out.println(a);

@@ -16,23 +16,23 @@ public class BMI_calculation {
     	if( BMI<18.5) {
     	System.out.println("your BMI is : " +BMI + " and you are uder weight");
     	}
-    	if(( BMI>=18.5)&&(BMI<24.9)) {
+    	else if(( BMI>=18.5)&&(BMI<24.9)) {
     		
     		System.out.println("your BMI is : " +BMI + " and you are normal weight");
     	}	
-        if(( BMI>=25)&&(BMI<29.9)) {
+    	else if(( BMI>=25)&&(BMI<29.9)) {
     		
     		System.out.println("your BMI is : " +BMI + " and you are over weight");
     	}
-        if(( BMI>=30)&&(BMI<34.5)) {
+    	else if(( BMI>=30)&&(BMI<34.5)) {
     		
     		System.out.println("your BMI is : " +BMI + " and you are obse class I(Moderate obese)");
     	}
-        if(( BMI>=35)&&(BMI<39.9)) {
+    	else if(( BMI>=35)&&(BMI<39.9)) {
     		
     	System.out.println("your BMI is : " +BMI + " and you are obse class II(severe obese)"); 
 	    }
-        if( BMI>=40){
+    	else if( BMI>=40){
     		
         	System.out.println("your BMI is : " +BMI + " and you are obse class III(very severe obese)"); 
     	}  

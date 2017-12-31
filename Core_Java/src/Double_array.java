@@ -9,7 +9,8 @@ String flights [][]=new String[4][4];
 // first row
 
 flights[0][0]="Dallas";
-flights[0][1]="NYC";flights[0][2]="Miami";
+flights[0][1]="NYC";
+flights[0][2]="Miami";
 flights[0][3]="chicago";
 
 
